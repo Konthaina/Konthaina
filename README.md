@@ -1,4 +1,4 @@
-# ![Logo](https://example.com/your-logo.png) Kon Thaina
+# ![Logo](https://avatars.githubusercontent.com/u/143169514?s=96&v=4) Kon Thaina
 
 ## 👨‍💻 About Me
 I am a dedicated and hardworking **Computer Science student** at **Norton University**, passionate about **technology** and continuous learning. With experience in **animation scripting** and **POS terminal services**, I thrive on problem-solving and innovation. My strengths include **responsibility, honesty, and effective communication**.
