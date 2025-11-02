@@ -1,7 +1,29 @@
-# About Me
+# 👋 About Me  
 
-Hi there! 👋
+Hi there! I'm **Thaina**, a **🎓 Computer Science graduate** passionate about **💻 technology** and **🚀 software development**.  
 
-I'm a 4th-year Computer Science student passionate about technology and software development. Currently, I'm focusing on AI and machine learning, with specific interests in emotion detection, sentiment analysis, and building practical systems like Point of Sale (POS) solutions. 
+I specialize in **🤖 Artificial Intelligence (AI)** and **🧠 Machine Learning (ML)** — focusing on:  
+- 😊 **Emotion Detection**  
+- 💬 **Sentiment Analysis**  
+- 🧾 **Practical System Development** (like **Point of Sale (POS)** systems)
 
-Check out my website: [konthaina.vercel.app](https://konthaina.vercel.app)
+I love transforming ideas into **intelligent**, **user-friendly**, and **impactful** applications that solve real-world problems.  
+
+---
+
+### 🧩 Tech Interests
+- 🧠 Machine Learning & Deep Learning  
+- ⚙️ Backend Development (Laravel, Node.js)  
+- 🌐 Web Development (React, Tailwind CSS)  
+- ☁️ Cloud & Deployment (Vercel, Docker)
+
+---
+
+### 🌎 Portfolio  
+Check out my work here → [**konthaina.vercel.app**](https://konthaina.vercel.app)
+
+---
+
+### 💡 Fun Fact  
+I enjoy exploring how **AI** can make daily life smarter — from analyzing emotions to recommending better coffee!
+
