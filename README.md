@@ -3,9 +3,9 @@
 Hi there! I'm **Thaina**, a **🎓 Computer Science graduate** passionate about **💻 technology** and **🚀 software development**.
 
 I specialize in **🤖 Artificial Intelligence (AI)** and **🧠 Machine Learning (ML)** — focusing on:
-* 😊 **Emotion Detection**
-* 💬 **Sentiment Analysis**
-* 🧾 **Practical System Development** (like **Point of Sale (POS)** systems)
+* **Emotion Detection**
+* **Sentiment Analysis**
+* **Practical System Development** (like **Point of Sale (POS)** systems)
 
 I love transforming ideas into **intelligent**, **user-friendly**, and **impactful** applications that solve real-world problems.
 
@@ -30,11 +30,13 @@ I love transforming ideas into **intelligent**, **user-friendly**, and **impactf
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
-#### 🧩 Tech Interests
-* 🧠 Machine Learning & Deep Learning
-* ⚙️ Backend Development (Laravel, Node.js)
-* 🌐 Web Development (**React**, **Vue.js**, Tailwind CSS)
-* ☁️ Cloud & Deployment (Vercel, Docker)
+#### 🧩 Frameworks & Platforms
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-343D46?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
